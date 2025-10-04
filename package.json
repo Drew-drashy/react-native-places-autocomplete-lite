@@ -1,6 +1,6 @@
 {
   "name": "react-native-places-autocomplete-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight Google Places Autocomplete input for React Native / Expo.",
   "main": "src/index.js",
   "keywords": [
@@ -26,5 +26,7 @@
   "optionalDependencies": {
     "expo-constants": "^16.0.0"
   },
-  "publishConfig": { "registry": "https://registry.npmjs.org/" }
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
