@@ -1,0 +1,10 @@
+# keep the package lean
+node_modules
+*.log
+.DS_Store
+.git
+.github
+.eslint*
+.prettier*
+.vscode
+example/

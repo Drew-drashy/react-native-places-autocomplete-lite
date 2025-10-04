@@ -1,0 +1,29 @@
+{
+  "name": "react-native-places-autocomplete-lite",
+  "version": "1.0.0",
+  "description": "Lightweight Google Places Autocomplete input for React Native / Expo.",
+  "main": "src/index.js",
+  "keywords": [
+    "react-native",
+    "expo",
+    "google-places",
+    "autocomplete",
+    "maps"
+  ],
+  "license": "MIT",
+  "author": "Your Name <you@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/react-native-places-autocomplete-lite.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": ">=0.72"
+  },
+  "optionalDependencies": {
+    "expo-constants": "^16.0.0"
+  }
+}
